@@ -49,4 +49,3 @@ That's it. I had to do little to no sanding. Most boards from original cartridge
 I release everything here under the Creative Commons Attribution 4.0 International license (CC-BY 4.0). Enjoy :)
 
 <a href="https://www.buymeacoffee.com/there.oughta.be" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="47" width="174" ></a>
-<a href="https://www.buymeacoffee.com/there.oughta.be" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="47" width="174" ></a>
