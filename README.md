@@ -1,6 +1,8 @@
 # wooden-game-boy-cartridge
 A CNC-machined Game Boy cartridge shell
 
+**:warning: Note: I have also released a [wooden Game Boy](https://github.com/Staacks/wooden-game-boy) and this also contains an optimized version of the cartridge.**
+
 I made this while experimenting with my new CNC router and someone asked me to share the original files, so here they are.
 
 To see the steps (in a time lapse) and the result, check out this clip:
